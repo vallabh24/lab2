@@ -1,0 +1,3 @@
+git config --global user.name "Your New Name"
+git config --global user.email "yournewemail@example.com"
+
